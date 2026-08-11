@@ -32,9 +32,17 @@ Trade-offs and Costs: How an organization makes decisions, based on the lessons 
 
 ### Comment 2
 
+Escalabilidade, Regras, Componentização, Reutilização, acoplamentos
+Tempo e mudanças são conceitos intangíveis e imparáveis; A preparação pré programação deve manter em mente que a estrutura deve ser escalávek e desacoplada justamente pela mudanças futuras que certamente virão.
+Tabelas devem ser expandíveis e termos devem seguir certas regras, pois assim, nenhuma regra se vai com o seu desenvolvedor, e o processo se torna um trabalho em equipe, mesmo que em tempos diferentes.
+
+Um projeto, seja este estudantil ou uma companhia inteira, deve se basear em regras definidas e disponíveis, com critérios de entendimento claro.
+
+"Trade-offs" ou trocas devem ser estudados antes de definidos, seus custos financeiros, performaticos e operacionais devem ser levados em conta.
+
 ### Exercise 3
 
-Cite and explain 3 examples of tradeoffs em software
+Cite and explain 3 examples of tradeoffs in software
 
 What are you gaining and what are you losing?
 
